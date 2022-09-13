@@ -1,0 +1,133 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #850E35;
+  line-height: 2;
+}
+
+h2{
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #850E35;
+  font-weight: normal;
+  margin-bottom: 50px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #EE6983;
+}
+
+.top-container{
+  background-color: #FFF5E4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.SOMM {
+  text-decoration: underline;
+}
+
+.wine-tasting{
+  width: 450px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  width: 10%;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link{
+  color: #850E35;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  overflow: auto;
+}
+
+.wine{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.food{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.daniel{
+  margin-top: 30px;
+  width: 20%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3em;
+  color: #EE6983;
+}
+
+.bottom-container{
+  background-color: #FFF5E4;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 100px;
+}
+
+.btn{
+  border-radius: 15px;
+  background-color: #850E35;
+  padding: 15px 60px;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #FFF5E4;
+  margin-top: 300px;
+}
+
+.no-worries{
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+.i-am-daniel{
+  margin-bottom: 50px;
+}
+
+.skills{
+  margin-top: 100px;
+}
+
+.copyright{
+  font-size: 10px;
+  font-weight: bold;
+  margin-top: 30px;
+}
